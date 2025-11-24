@@ -6,6 +6,8 @@ public class ZooManager {
 
     public void initAnimals(int maxAnimals){
         System.out.println("Hello World");
+        System.out.println("Hello World2");
+        System.out.println("Hello World igen");
 
         animals = new Animal[maxAnimals];
     }
